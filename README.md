@@ -4,7 +4,7 @@ A Flask web application that provides user authentication, password reset functi
 
 ---
 
-## 🚀 Features
+##  Features
 
 - User registration and login
 - Password hashing and authentication
@@ -16,7 +16,7 @@ A Flask web application that provides user authentication, password reset functi
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - Python
 - Flask
@@ -29,7 +29,7 @@ A Flask web application that provides user authentication, password reset functi
 
 ---
 
-## ⚙️ Setup & Installation
+##  Setup & Installation
 
 ### 1. Clone the repository
 ```bash
