@@ -33,6 +33,6 @@ A Flask web application that provides user authentication, password reset functi
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/flask-auth-app.git
+git clone https://github.com/jhanviturabit-star/flask-auth-app.git
 cd flask-auth-app
     
